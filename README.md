@@ -1,4 +1,3 @@
-B.P.LAW
 
 Never Ending Model
 Summary.
