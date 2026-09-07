@@ -1,4 +1,6 @@
 
+https://shifty-psy.github.io/SPGL/
+
 Never Ending Model
 Summary.
 The Never Ending Model proposes a unified physical–informational framework in which the universe is represented as a 4‑dimensional manifold 
